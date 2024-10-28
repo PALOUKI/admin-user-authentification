@@ -2,8 +2,7 @@
 To start the project, make sûr you have tap these command lines:
 
   - npm install
-
-  -npm install bootstrap
+  - npm install bootstrap
 ![](screenshots/signUp.png)
 ![](screenshots/login.png)
 ![](screenshots/admin.png)
